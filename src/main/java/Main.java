@@ -14,4 +14,9 @@ public class Main {
         System.out.println(output);
 
     }
+
+    public void getRawData(){}
+    public void ignoreCase(){}
+    public void searchForSeperator(){}
+    public void replace(){}
 }
