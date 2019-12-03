@@ -1,5 +1,6 @@
+package model;
+
 import org.apache.commons.io.IOUtils;
-import java.io.IOException;
 
 public class Main {
 
@@ -15,8 +16,6 @@ public class Main {
 
     }
 
-    public void getRawData(){}
     public void ignoreCase(){}
-    public void searchForSeperator(){}
-    public void replace(){}
+
 }
